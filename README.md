@@ -8,6 +8,7 @@
   *Make sure Git and docker-compose are installed apt-get install git docker-compose -y;
   *Clone this repo via git clone https://github.com/DocXadcon/REGIMEN_DAY.git;
   *Move to the directory cd Regimen_day.
+  fdjsklfkljskdf
 
 **Deployment**
   *Rename .env.sample to .env and replace a token placeholder and owner id with your own one;
