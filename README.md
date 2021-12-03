@@ -4,11 +4,11 @@
 This bot is for a person who wants to make his day more productive.
 
 **Setting up**
-Update package lists sudo apt-get update;
-Make sure Git and docker-compose are installed apt-get install git docker-compose -y;
-Clone this repo via git clone https://github.com/DocXadcon/REGIMEN_DAY.git;
-Move to the directory cd Regimen_day.
+*Update package lists sudo apt-get update;
+*Make sure Git and docker-compose are installed apt-get install git docker-compose -y;
+*Clone this repo via git clone https://github.com/DocXadcon/REGIMEN_DAY.git;
+*Move to the directory cd Regimen_day.
 
 **Deployment**
-Rename .env.sample to .env and replace a token placeholder and owner id with your own one;
-Start the bot: sudo docker-compose up --build.
+*Rename .env.sample to .env and replace a token placeholder and owner id with your own one;
+*Start the bot: sudo docker-compose up --build.
